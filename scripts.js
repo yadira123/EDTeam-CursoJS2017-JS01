@@ -1158,13 +1158,3 @@ Persona.prototype.propiedadEstatica='valor de la propiedad estatica';
 
 console.log(daniel.propiedadEstatica);
 */
-
-
-
-
-
-
-
-
-
-
